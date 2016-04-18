@@ -1,2 +1,2 @@
 # 704.js
-A JavaScript library to generate NPFA 704 images.
+A JavaScript library to generate NFPA 704 images.
